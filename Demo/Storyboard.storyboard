@@ -5,7 +5,6 @@
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
-        <!--Demo View Controller-->
         <scene sceneID="LWc-fX-oxb">
             <objects>
                 <viewController id="D2U-NN-2aL" customClass="DemoViewController" customModule="PKHUD_Demo" customModuleProvider="target" sceneMemberID="viewController">
