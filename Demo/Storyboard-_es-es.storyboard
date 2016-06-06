@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="ZJp-P0-C2o" userLabel="Background">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="background" translatesAutoresizingMaskIntoConstraints="NO" id="ZJp-P0-C2o" userLabel="Fondo">
                                 <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                                 <animations/>
                             </imageView>
@@ -128,7 +128,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="TMt-nL-bhl"/>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Y5D-FH-e5i" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Y5D-FH-e5i" userLabel="Primera Respuesta "sceneMemberID =" firstResponder"/>
             </objects>
             <point key="canvasLocation" x="63" y="388"/>
         </scene>
@@ -137,3 +137,19 @@
         <image name="background" width="1024" height="1024"/>
     </resources>
 </document>
+                    <constraints>
+                            <constraint firstAttribute="leadingMargin" secondItem="e1q-cj-4qk" secondAttribute="leading" id="8oN-jM-0Jj"/>
+                            <constraint firstItem="sKS-gL-TO9" firstAttribute="top" secondItem="e1q-cj-4qk" secondAttribute="bottom" constant="20" id="Pbn-1X-R19"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="e1q-cj-4qk" secondAttribute="trailing" id="rca-dh-wks"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="TMt-nL-bhl"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Y5D-FH-e5i" userLabel="Primera Respuesta "sceneMemberID =" firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="63" y="388"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="background" width="1024" height="1024"/>
+    <
